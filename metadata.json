@@ -1,0 +1,8 @@
+{
+  "name": " Ejaz Bussniess Solution 3",
+  "description": "Professional accounting and recovery management software with customer ledgers, cash-in-hand tracking, vouchers, and business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
